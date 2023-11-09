@@ -1,0 +1,86 @@
+h1 {
+    margin-top: 70px;
+    color: #000;
+text-align: center;
+font-family: Gilroy;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+p {
+    margin: 24px 360px 0px;
+    color: #000;
+text-align: center;
+font-family: Gilroy;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.elem {
+    display: flex;
+    justify-content: center;
+    margin: 65px 0px;
+    gap: 70px;
+}
+.info h1 {
+    color: #000;
+text-align: center;
+font-family: Gilroy;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.info h3{
+    color: #0071E3;
+font-family: Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.info h2{
+    color: #000;
+font-family: Gilroy;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.elem button {
+    width: 155px;
+height: 42px;
+flex-shrink: 0;
+border-width: 0px;
+border-radius: 10px;
+text-align: center;
+font-family: Gilroy;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+
+.SSD button{
+    width: 321px;
+    height: 57px;
+    border-radius: 10px;
+border: 2px solid #CFE7FF;
+text-align: center;
+margin-bottom: 10px;
+}
+.pc{
+    width: 500px;
+    height: 400px;
+    background-image: url("img/mbp14-spacegray-select-202110 1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: .0.5s ease;
+}
+.active {
+    background: #0071E3;
+color: #FFF;
+}
